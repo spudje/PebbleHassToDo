@@ -1,0 +1,27 @@
+{
+  "uuid": "a4f8c2d1-b3e5-4a07-9c1d-f62e8b305a7c",
+  "shortName": "HassToDoList",
+  "longName": "Home Assistant To-Do",
+  "companyName": "djSPUD",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk", "diorite"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "REQUEST_ITEMS": 0,
+    "ITEM_COUNT": 1,
+    "ITEM_INDEX": 2,
+    "ITEM_SUMMARY": 3,
+    "ITEM_STATUS": 4,
+    "TOGGLE_ITEM": 5,
+    "DELETE_COMPLETED": 6,
+    "ERROR_MESSAGE": 7,
+    "STATUS_MESSAGE": 8
+  },
+  "capabilities": ["configurable"],
+  "resources": {
+    "media": []
+  }
+}
