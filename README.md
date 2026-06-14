@@ -1,13 +1,15 @@
 # Pebble Home Assistant To-Do
 
-A Pebble watch app that shows and manages a Home Assistant to-do list.
+A (re)Pebble OS watchapp that lists to do items of a single Home Assistant Local To Do List.
+
+Created by Claude Code.
 
 ## Features
 
 - Displays to-do items with large text (GOTHIC_28_BOLD) and visual checkboxes
 - Tap SELECT on any item to toggle it checked/unchecked (synced to HA instantly)
-- "Delete Completed" action removes all completed items from HA
-- Settings page in the Pebble Android app lets you configure HA URL, token, and list
+- "Delete Completed" action removes all completed items from app and HA
+- Settings page in the Pebble Android app lets you configure HA URL, token, and to do list
 
 ## Project Structure
 
